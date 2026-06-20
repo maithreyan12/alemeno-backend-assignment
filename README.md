@@ -1,3 +1,5 @@
+<img width="612" height="582" alt="architecture" src="https://github.com/user-attachments/assets/87f61e0c-7718-4c02-9b87-b70eec957c5c" />
+<img width="612" height="582" alt="architecture" src="https://github.com/user-attachments/assets/702f08cd-8604-40c2-abf1-02be1a0ba6d0" />
 # AI-Powered Transaction Processing Pipeline
 
 ## Stack
