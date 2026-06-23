@@ -4,7 +4,6 @@
 
 ![Architecture](https://github.com/user-attachments/assets/87f61e0c-7718-4c02-9b87-b70eec957c5c)
 
-
 ## Stack
 - FastAPI + PostgreSQL + Celery + Redis + Gemini AI
 - Fully containerised with Docker Compose
@@ -57,4 +56,4 @@ Visit http://localhost:8000/docs for interactive Swagger UI
 ## Submission Checklist
 - ✅ GitHub repo (public)
 - ✅ Architecture diagram (above)
-- 🎥 Demo video: [Watch here](https://your-loom-link-here)
+- ✅ Demo video: [Watch here](https://www.loom.com/share/adec5f841f2e4ff98787021bf793c6ab)
